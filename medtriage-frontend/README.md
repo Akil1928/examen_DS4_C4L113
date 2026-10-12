@@ -1,3 +1,16 @@
+
+
+# IMPORTANTE
+el spring-boot se ejecuta con:
+./mvnw clean spring-boot:run
+
+el Angular se ejecuta con 
+npx ng serve    
+
+
+
+
+
 # MedtriageFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.7.
