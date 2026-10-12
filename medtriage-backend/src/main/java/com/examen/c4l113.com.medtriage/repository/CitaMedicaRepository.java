@@ -1,6 +1,6 @@
-package com.examen.c4l113.repository;
+package com.examen.c4l113.com.medtriage.repository;
 
-import com.examen.c4l113.model.CitaMedica;
+import com.examen.c4l113.com.medtriage.model.CitaMedica;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.examen.c4l113;
+package com.examen.c4l113.com.medtriage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
